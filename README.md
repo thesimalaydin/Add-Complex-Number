@@ -30,6 +30,7 @@ For example, if the input complex numbers are `2.3 + 4.5i` and `3.4 + 5.0i`, the
 
 Input:
 n1 = 2.3 + 4.5i
+
 n2 = 3.4 + 5.0i
 
 Output:
